@@ -11,7 +11,7 @@ An interactive web application that helps users discover delicious food recipes 
 ## 🛠️ Tech Stack
 * **HTML5 & CSS3**
 * **JavaScript** (AJAX / Fetch API)
-* **jQuery** (Optional - *لو كنتِ استخدمتيه*)
+* **jQuery** 
 * **Bootstrap** (For responsive layout)
 
 ## 🌐 Live Demo
